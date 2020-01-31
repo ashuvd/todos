@@ -1,0 +1,35 @@
+.todo{
+  padding: 20px;
+  border-radius: 3px;
+  background-color: $white;
+  position: relative;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  &:last-child{
+    margin-bottom: 0;
+  }
+  &__title{
+    font-size: 24px;
+    font-weight: 700;
+    padding-right: 70px;
+    margin-bottom: 20px;
+  }
+  &__list{
+    margin-bottom: 20px;
+  }
+  &__item{
+    padding-left: 20px;
+    margin-bottom: 10px;
+    &:last-child{
+      margin-bottom: 0;
+    }
+    &_view{
+      display: flex;
+      align-items: center;
+    }
+  }
+  &__checkbox{
+    margin-right: 20px;
+  }
+}

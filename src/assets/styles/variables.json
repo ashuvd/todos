@@ -1,0 +1,18 @@
+{
+  "white": "#FFF",
+  "black": "#212934",
+  "green": "#1D8B77",
+  "yellow": "#FF0",
+  "red": "#dc1643",
+  "blue": "#0C7CD5",
+  "gray": "#D4D4D4",
+  "text": "#212934",
+  "button": "#626262",
+  "button-hover": "#C4C4C4",
+
+  "fullhd": "1340px",
+  "desktop": "1200px",
+  "laptop": "992px",
+  "tablet": "768px",
+  "phone": "576px"
+}
